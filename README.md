@@ -2,6 +2,7 @@
 
 [![Latest release](https://img.shields.io/github/release/google/guava.svg)](https://github.com/google/guava/releases/latest)
 [![Build Status](https://travis-ci.org/google/guava.svg?branch=master)](https://travis-ci.org/google/guava)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCodeDetectionCase%2Fguava-failureaccess-v1.0.1.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCodeDetectionCase%2Fguava-failureaccess-v1.0.1?ref=badge_shield)
 
 Guava is a set of core libraries that includes new collection types (such as
 multimap and multiset), immutable collections, a graph library, functional
@@ -111,3 +112,7 @@ API level 15 (Ice Cream Sandwich).
 [using Guava in your build]: https://github.com/google/guava/wiki/UseGuavaInYourBuild
 [repackage]: https://github.com/google/guava/wiki/UseGuavaInYourBuild#what-if-i-want-to-use-beta-apis-from-a-library-that-people-use-as-a-dependency
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCodeDetectionCase%2Fguava-failureaccess-v1.0.1.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCodeDetectionCase%2Fguava-failureaccess-v1.0.1?ref=badge_large)
